@@ -1,0 +1,160 @@
+
+body{
+    margin: 0;
+  
+    background-image: url("https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+    background-size: cover;
+  
+  
+  
+  }
+  .yu
+  {
+    display: flex;
+    justify-content: baseline;
+    }
+  .blur{
+  height: auto;
+  
+   background: rgba(0, 0, 0, 0.5);
+  
+  margin: 20px;
+  padding: 10px;
+  
+  
+  
+  }
+  
+  table{font-family: 'Lato', sans-serif;
+    text-align:center;
+    color: #76b39d;
+    font-size: 1.2rem;
+    text-shadow: 0 0 2px #76b39d;
+    align-self: auto;
+
+  }
+  td{
+    height: 15px;
+    padding: 5px;
+  }
+  tr{
+    height: 45px;
+  }
+  form
+  {font-family: 'Lato', sans-serif;
+    text-align:center;
+    color: #76b39d;
+    font-size: 1.2rem;
+    text-shadow: 0 0 2px #76b39d;
+
+    
+  }
+  .split {
+    height: 100%;
+    width: 50%;
+    display: inline;
+    z-index: 1;
+    top: 0;
+    
+    margin: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  .ali{
+    margin-left: 30%;
+  }
+  
+
+  .left {
+    left: 0;
+    margin:0;
+    
+  }
+
+
+  .right {
+    right: 0;
+    margin: 0;
+  }
+  h2
+  {font-family: 'Lato', sans-serif;
+  text-align:center;
+  margin: 0;
+  }
+  .detail{
+    margin-top: 70px;
+    margin-bottom: 50px;
+    font-size: 45px;
+    
+    color: black;
+    
+    text-shadow: 0 0 3px #fcf9ec;
+    animation-name:;
+  
+  }
+  .detail:hover{
+    
+    color: #fcf9ec;
+    
+    text-shadow: 0 0 3px black;
+
+  }
+  .thead{
+    color: #fcf9ec;
+    
+    text-shadow: 0 0 3px black;
+
+  }
+  .thead:hover{
+    color: black;
+    
+    text-shadow: 0 0 3px #fcf9ec;
+
+
+  }
+  h1:hover
+  {
+  color: #0f0c29;
+  
+  }
+  h1
+  {font-family: 'Overlock', cursive;
+  text-align: center;
+  color: white;
+  font-size:60px;
+  padding: 30px;
+  margin: 0;
+  
+   }
+  label{
+    display: inline-block;
+  }
+
+  input{
+      position: relative;
+      margin: 0 20px 0 15px;
+      
+  }
+  .butn { 
+      
+    background: linear-gradient(to right bottom , #2c3e50, #4ca1af); 
+
+border: none;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 28px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .butn:hover {
+    background-image: linear-gradient(to left top ,#5c5757, #2c3e50);
+    text-decoration: none;
+  }
+  
+  #blur{
+    height: 350px;
+  
+  }
+  
